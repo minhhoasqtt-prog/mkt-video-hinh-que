@@ -1,0 +1,50 @@
+{
+  "_huong_dan": "Chép file này vào thư mục dự án, đổi tên thành plan.json rồi sửa. Đọc references/cong-thuc-video-hinh-que.md trước khi viết. Chế độ giong-goc thì bỏ trường sents.",
+  "title": "NGƯỜI TA THẤY ĐÍCH ĐẾN\nKHÔNG AI THẤY 5 GIỜ SÁNG",
+  "mode": "auto",
+  "sents": [
+    "Người ta chỉ thấy bạn về đích, giữa tiếng vỗ tay.",
+    "Không ai thấy con đường vắng lúc năm giờ sáng.",
+    "Kinh doanh cũng vậy, ai cũng khen con số cuối năm.",
+    "Chẳng ai đếm những buổi sáng bạn dậy khi chưa ai tin.",
+    "Thứ quyết định bạn đi bao xa không phải là sức mạnh.",
+    "Mà là bạn có giữ lời hẹn với chính mình hay không.",
+    "Cơ thể không biết nói dối, mỗi vòng đạp đều ghi lại.",
+    "Doanh nghiệp lớn đúng bằng độ bền của người đứng đầu.",
+    "Người bỏ cuộc hiếm khi thua vì dốc cao hay gió ngược.",
+    "Họ thua vì cho phép mình nghỉ một buổi, rồi nghỉ luôn.",
+    "Bạn không cần đạp nhanh hơn tất cả những người bên cạnh.",
+    "Bạn chỉ cần ngày mai vẫn có mặt trên đường."
+  ],
+  "img_prompts": [
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, on the left a round-headed figure raises both arms crossing a finish-line ribbon while a few tiny figures clap; on the right the same figure alone pedalling a bicycle on an empty road under a crescent moon and a small round clock. Contrast between applause and solitude. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere.",
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, on the left a tall rising bar chart on a board with tiny figures clapping below it; on the right the same round-headed figure alone at a small desk with a lamp, empty chairs around, before sunrise. Quiet unseen effort behind public numbers. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere.",
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, a round-headed figure standing in front of a large upright mirror, shaking hands with its own reflection, a small knotted rope drawn between the two hands. Calm, sincere, a promise made to oneself. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere.",
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, a bicycle wheel on the left whose spokes stretch downward into tree roots, a small round-headed figure pedalling it, and above the roots a sturdy tree whose crown is shaped like a small building. Endurance quietly building a structure. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere.",
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, a steep hill with long wind arrows blowing against a round-headed figure climbing on a bicycle; on the roadside another figure sits down beside a small tent, its line of footprints stopping there. One rest day becoming a full stop. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere.",
+    "Monochrome BLACK AND WHITE cartoon line illustration, ONLY clean thin white ink outlines with soft light-grey shading on a pure solid black background, absolutely NO color, minimalist hand-drawn doodle sketch style, simple round-headed stick-figure characters with soft expressive faces, a long empty road stretching to the horizon at dawn, one small round-headed figure still pedalling a bicycle toward a rising sun with gentle warm light rays. Hopeful, quiet, proud. wide horizontal 16:9 composition, drawing kept small and centered with generous empty black space around it. No text, no letters, no words, no numbers anywhere."
+  ],
+  "motion_prompts": [
+    "Animate this cartoon: the tiny figures clap slowly, the ribbon flutters, the lone figure pedals gently and the moon glows softly. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera.",
+    "Animate this cartoon: the bars grow slowly upward, the tiny figures clap, the desk lamp light breathes gently. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera.",
+    "Animate this cartoon: the two hands shake slowly up and down, the mirror surface shimmers faintly, the rope knot tightens a little. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera.",
+    "Animate this cartoon: the wheel rotates slowly, the roots creep outward and the tree grows slightly taller, leaves sway gently. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera.",
+    "Animate this cartoon: the wind arrows drift backward, the climbing figure leans forward, the sitting figure lowers its head slowly. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera.",
+    "Animate this cartoon: the figure pedals slowly forward down the road, the sun rises a little and the light rays expand gently. Keep the black and white cartoon line drawing style on solid black background exactly, subtle smooth gentle motion, no style change, no color added, no camera shake, static camera."
+  ],
+  "band": {
+    "y": 260,
+    "h": 460,
+    "zoom": 1160,
+    "veil": {
+      "dark_top": 0.97,
+      "dark": 0.86,
+      "bottom_extra": 110,
+      "feather": 200
+    }
+  },
+  "music_vol": 0.28,
+  "clip_prefix": "hq",
+  "caption": "Người ta chỉ thấy bạn về đích. Không ai thấy con đường vắng lúc năm giờ sáng.\nDoanh nghiệp lớn đúng bằng độ bền của người đứng đầu.\nBạn không cần nhanh hơn tất cả. Bạn chỉ cần ngày mai vẫn có mặt trên đường.",
+  "note": "nguồn footage + ngày quay"
+}

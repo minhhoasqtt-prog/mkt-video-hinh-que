@@ -1,0 +1,10 @@
+config.env
+du-an/
+work/
+logs/
+*.mp4
+*.mp3
+*.wav
+__pycache__/
+.da-day-base.json
+assets/logo.png
